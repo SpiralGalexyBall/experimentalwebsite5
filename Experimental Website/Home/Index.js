@@ -1,0 +1,1 @@
+javascript:alert ("So, You have found out about this website hmm?"); 
